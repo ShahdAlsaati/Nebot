@@ -1,0 +1,1 @@
+const NO_ENTERNET_ERROR_MESSAGE="Please Check Your internet connection";

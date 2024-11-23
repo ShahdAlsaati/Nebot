@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.125" height="80.125" viewBox="0 0 80.125 80.125">
+  <defs>
+    <filter id="Icon_ion-arrow-back-circle-sharp" x="0" y="0" width="80.125" height="80.125" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_ion-arrow-back-circle-sharp)">
+    <path id="Icon_ion-arrow-back-circle-sharp-2" data-name="Icon ion-arrow-back-circle-sharp" d="M3.375,25.438A22.063,22.063,0,1,0,25.438,3.375,22.063,22.063,0,0,0,3.375,25.438Zm23.76-8.5-6.744,6.8H36.257v3.394H20.391l6.744,6.8-2.408,2.391-10.8-10.886,10.8-10.886Z" transform="translate(14.63 11.63)" fill="#fff"/>
+  </g>
+</svg>
